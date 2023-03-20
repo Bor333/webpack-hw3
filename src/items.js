@@ -51,11 +51,11 @@ export default [
     {
         resource: video1,
         type: 'video',
-        title: 'Never Gonna Give You Up'
+        title: 'Парк1'
     },
     {
         resource: video2,
         type: 'video',
-        title: 'Берег моря'
+        title: 'Парк2'
     },
 ]
